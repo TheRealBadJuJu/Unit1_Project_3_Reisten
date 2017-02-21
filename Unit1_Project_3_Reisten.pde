@@ -3,6 +3,9 @@
 
 
 
+
+
+
 int Ballcount = (int)random(10,50);
 float[] Xs = new float[Ballcount];
 float[] Ys = new float[Ballcount];
